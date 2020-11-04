@@ -1,6 +1,7 @@
 # todo
 
-A new Flutter application.
+
+It is a simple application based on the SQLite database.
 
 ## Getting Started
 
